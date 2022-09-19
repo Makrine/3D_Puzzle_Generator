@@ -1,2 +1,2 @@
-# 3D_Puzzle_Generator
+# 3D Puzzle Generator
 Documentation page for 3D Puzzle Generator Asset
